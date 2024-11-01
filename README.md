@@ -6,7 +6,6 @@ This project features a simple loading screen with a rainbow background and a lo
 
 - Animated rainbow background
 - Scalable loading animation
-- No text displayed during loading
 
 ## Demo
 
